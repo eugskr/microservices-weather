@@ -1,0 +1,15 @@
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.exe
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.deps.json
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.runtimeconfig.json
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.dll
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.pdb
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.csproj.AssemblyReference.cache
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.AssemblyInfoInputs.cache
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.AssemblyInfo.cs
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.csproj.CoreCompileInputs.cache
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.dll
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\refint\CloudWeather.DataLoader.dll
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.pdb
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.genruntimeconfig.cache
+C:\Projects\Microservices-Weather\CloudWeather.DataLoader\obj\Debug\net6.0\ref\CloudWeather.DataLoader.dll
